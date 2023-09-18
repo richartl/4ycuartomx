@@ -1,1 +1,1 @@
-Sitemap: http://0.0.0.0:4000/https://github.com/richartl/4ycuartomx/sitemap.xml
+Sitemap: http://0.0.0.0:4000/blob/main/sitemap.xml

@@ -5,7 +5,7 @@ description: Banda de covers "emo", de Texcoco para el mundo
 taglong: Banda de covers 2000eros
 tagshort: 4 y CUARTO
 url: http://4ycuartomx.com
-baseurl: "/4ycuartomx/blob/main"
+baseurl: "/"
 permalink: pretty
 repo: https://github.com/richartl/4ycuartomx
 

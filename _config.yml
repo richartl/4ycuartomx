@@ -1,0 +1,57 @@
+# site settings
+
+title: 4yCUARTOMX
+description: Banda de covers "emo", de Texcoco para el mundo
+taglong: Banda de covers 2000eros
+tagshort: 4 y CUARTO
+url: http://4ycuartomx.com
+baseurl: ""
+permalink: pretty
+repo: https://github.com/richartl/4ycuartomx
+
+# author settings
+
+author:
+  name: 4 y cuarto
+  email: 4ycuartomx@gmail.com
+photo: /assets/jpg/photo.png
+
+# social media links
+
+social:
+  facebook: 4YCUARTOMX
+  instagram: 4ycuartomx
+
+# build settings
+
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  sourcemap: never
+
+feed:
+  path: atom.xml
+
+autopages:
+  enabled: false
+
+pagination:
+  enabled: true
+  per_page: 1
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"

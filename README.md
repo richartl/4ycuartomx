@@ -1,2 +1,1 @@
-# 4ycuartomx
-Own band github page repository
+# 4yCUARTOMX Band
